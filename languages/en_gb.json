@@ -150,5 +150,19 @@
   "CASINO_nuke_cancel": "Alright, I won't nuke all accounts",
   "CASINO_nuke_success": "🚮 Done, all accounts in **{server}** have been deleted...",
   "CASINO_ban": "**{user}** has now been banned from using /casino and other games.",
-  "CASINO_unban": "**{user}** is now unbanned, /casino and other games are usable again."
+  "CASINO_unban": "**{user}** is now unbanned, /casino and other games are usable again.",
+  "CASINO_coinflip_heads": "Heads",
+  "CASINO_coinflip_tails": "Tails",
+  "CASINO_coinflip_self": "**{author}** flipped a coin and got **{coinside}**!",
+  "CASINO_coinflip_wait": "**{author}** started a coinflip with **{money}**, type **{code}** to join, winner gets all.\nThe coinflip will automatically close in 60 seconds if no one joins",
+  "CASINO_coinflip_complete": "**{user}** won **{money}** from the coinflip! {reaction}",
+  "CASINO_coinflip_unexpected": "Something went wrong...",
+  "CASINO_coinflip_no_account": "Sorry **{author}**, you don't have an account...",
+  "CASINO_coinflip_not_enough": "Sorry **{author}**, you don't have enough to join this coinflip",
+  "CASINO_coinflip_timeout": "⏰ **Times up!**\nCoinflip was canceled **{author}**...",
+  "CASINO_slots_running": "**{author}** is rolling...",
+  "CASINO_slots_jackpot": "Jackpot! You won **{money}** (25x) by getting all Lucky 7 {emoji}",
+  "CASINO_slots_three": "Three on a row! you won **{money}** (10x) from getting all matching! {emoji}",
+  "CASINO_slots_two": "2 in a row, you won **{money}** {emoji}",
+  "CASINO_slots_fail": "No match, you lost **{money}** {emoji}"
 }
